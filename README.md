@@ -1,5 +1,4 @@
-# Fatigue(Drowsiness) Detection using OpenCV[![](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jaisayush/Fatigue-Detection-System-Based-On-Behavioural-Characteristics-Of-Driver/blob/master/LICENSE)  [![](https://img.shields.io/badge/Ayush-Jaiswal-brightgreen.svg)](https://github.com/jaisayush)
-## Applications
+# Fatigue(Drowsiness) Detection using OpenCV[![](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jaisayush/Fatigue-Detection-System-Based-On-Behavioural-Characteristics-Of-Driver/blob/master/LICENSE)  [![]
 ### This can be used by riders who tends to drive the vehicle for a longer period of time that may lead to accidents
 ## Code Requirements
 ### The example code is in Python ([version 2.7](https://www.python.org/download/releases/2.7/) or higher will work).
